@@ -1,2 +1,7 @@
 # Kuka Artist
- Preprocessor to turn your robot into an artist.
+
+
+## Resources
+
+https://github.com/ajithmuthuswamy/KUKA_KR4R600_Plotter
+https://github.com/vachernov/Picture-PreProcessing
