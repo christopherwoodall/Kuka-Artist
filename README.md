@@ -1,5 +1,12 @@
 # Kuka Artist
 
+## Getting Started
+
+```bash
+venv venv
+. venv/bin/activate
+pip install -e .
+```
 
 ## Resources
 
